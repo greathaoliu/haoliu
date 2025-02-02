@@ -37,7 +37,7 @@
     <p>个人微信</p>
   </div>
   <div class="qr-item">
-    <img src="群二维码.jpg" width="200" alt="AI交流群">
+    <img src="人工智能群二维码.jpg" width="200" alt="AI交流群">
     <p>AI交流群</p>
   </div>
   <div class="qr-item">
