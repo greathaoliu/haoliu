@@ -8,8 +8,8 @@
 - 浙江大学 计算机科学与技术 2018-2021
 - 浙江大学 求是科学班（物理） 2016-2018
 
-## 学术成果 📚
-[1]Bo Zou, Shaofeng Wang, **Hao Liu**, Gaoyue Sun, Yajie Wang, Feifei Zuo, Chengbin Quan, Youjian Zhao. (2024). Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. In Proceedings of the 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE.
+<!-- ## 学术成果 📚
+[1]Bo Zou, Shaofeng Wang, **Hao Liu**, Gaoyue Sun, Yajie Wang, Feifei Zuo, Chengbin Quan, Youjian Zhao. (2024). Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. In Proceedings of the 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). IEEE. -->
 
 ## 获奖经历 🏆
 - 西贝尔学者奖学金 2024
@@ -30,5 +30,10 @@
 - 💬 微信：realhaowhite
 - ✉️ 邮箱：haoliu97@qq.com
 
-## 更新频率 📅
-- 每周 1 次更新
+## 扫码添加 📱
+<div align="center">
+  <img src="微信二维码.jpg" width="300" alt="微信">
+  <p>个人微信</p>
+  <img src="群二维码.jpg" width="300" alt="AI交流群">
+  <p>AI交流群</p>
+</div>
