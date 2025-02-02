@@ -6,3 +6,24 @@
   border-radius: 50%;
   object-fit: cover;
 }
+
+.qr-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.qr-item {
+  text-align: center;
+}
+
+.qr-item img {
+  max-width: 200px;
+  height: auto;
+}
+
+.qr-item p {
+  margin-top: 10px;
+  font-size: 14px;
+}
