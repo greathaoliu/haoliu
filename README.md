@@ -40,4 +40,8 @@
     <img src="群二维码.jpg" width="200" alt="AI交流群">
     <p>AI交流群</p>
   </div>
+  <div class="qr-item">
+    <img src="高中数学物理群二维码.jpg" width="200" alt="高中数学物理群">
+    <p>高中数学物理群</p>
+  </div>
 </div>
