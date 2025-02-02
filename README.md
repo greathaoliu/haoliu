@@ -31,9 +31,13 @@
 - ✉️ 邮箱：haoliu97@qq.com
 
 ## 扫码添加 📱
-<div align="center">
-  <img src="微信二维码.jpg" width="300" alt="微信">
-  <p>个人微信</p>
-  <img src="群二维码.jpg" width="300" alt="AI交流群">
-  <p>AI交流群</p>
+<div class="qr-container">
+  <div class="qr-item">
+    <img src="微信二维码.jpg" width="200" alt="微信">
+    <p>个人微信</p>
+  </div>
+  <div class="qr-item">
+    <img src="群二维码.jpg" width="200" alt="AI交流群">
+    <p>AI交流群</p>
+  </div>
 </div>
