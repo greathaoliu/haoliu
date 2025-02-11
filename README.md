@@ -17,7 +17,7 @@
 ## 自媒体 📱
 - 抖音：[清华皓同学-计算机、数学、物理]( https://v.douyin.com/ifns6NNT/)
 - 视频号：[清华皓同学](https://weixin.qq.com/sph/ASx4PUJs7)
-- 小红书：[清华皓同学](https://www.xiaohongshu.com/user/profile/645b3416000000001002738a)
+- 小红书：[清华皓同学-计算机、数学、物理](https://www.xiaohongshu.com/user/profile/645b3416000000001002738a)
 
 ## 内容方向 🌟
 - 🤖 人工智能前沿科普
