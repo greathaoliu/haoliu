@@ -26,6 +26,9 @@
 - ⚡ 物理概念深入浅出
 - 📝 教育与专业经验分享
 
+## 代码下载
+- word接入DeepSeek [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
+
 ## 联系方式 📫
 - 💬 微信：realhaowhite
 - ✉️ 邮箱：haoliu97@qq.com
