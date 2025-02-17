@@ -44,7 +44,7 @@
     <p>AI交流群</p>
   </div>
   <div class="qr-item">
-    <img src="高中数学物理群二维码.jpg" width="200" alt="高中数学物理群">
-    <p>高中数学物理群</p>
+    <img src="皓同学的高中数理化研习社.png" width="200" alt="高中数学物理化学交流群">
+    <p>高中数学物理化学交流群</p>
   </div>
 </div>
