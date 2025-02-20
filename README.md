@@ -27,8 +27,10 @@
 - 📝 教育与专业经验分享
 
 ## 代码和资料下载
-- word接入DeepSeek [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
+- word接入DeepSeek代码 [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
 - DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://haoliu.wiki/code/DeepSeek从入门到精通.pdf)
+- DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
+- 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
 
 ## 联系方式 📫
 - 💬 微信：realhaowhite
