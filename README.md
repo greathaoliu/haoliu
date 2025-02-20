@@ -31,6 +31,7 @@
 - DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://haoliu.wiki/code/DeepSeek从入门到精通.pdf)
 - DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
+- 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
 
 ## 联系方式 📫
 - 💬 微信：realhaowhite
