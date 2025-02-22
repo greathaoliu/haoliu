@@ -24,7 +24,7 @@
 - 💻 计算机科学知识分享
 - ➗ 数学思维方法讲解
 - ⚡ 物理概念深入浅出
-- 📝 教育与专业经验分享
+- 📝 教育与社会经验分享
 
 ## 代码和资料下载
 - word接入DeepSeek代码 [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
@@ -32,6 +32,7 @@
 - DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
 - 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
+- 新闻简报微信机器人 [news_bot.py](https://haoliu.wiki/code/news_bot.py)
 
 ## 联系方式 📫
 - 💬 微信：realhaowhite
