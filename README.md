@@ -31,6 +31,8 @@
 - DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://haoliu.wiki/code/DeepSeek从入门到精通.pdf)
 - DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
+- DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.wiki/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
+- DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://haoliu.wiki/code/DeepSeek与AI幻觉.pdf)
 - 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
 - 新闻简报微信机器人 [news_bot.py](https://haoliu.wiki/code/news_bot.py)
 
