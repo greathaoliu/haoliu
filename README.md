@@ -33,6 +33,8 @@
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
 - DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.wiki/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
 - DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://haoliu.wiki/code/DeepSeek与AI幻觉.pdf)
+- 提示词工程与落地场景 [提示词工程与落地场景.pdf](https://haoliu.wiki/code/提示词工程与落地场景.pdf)
+- DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://haoliu.wiki/code/DeepSeek与AIGC应用.pdf)
 - 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
 - 新闻简报微信机器人 [news_bot.py](https://haoliu.wiki/code/news_bot.py)
 
@@ -51,7 +53,7 @@
     <p>AI交流群</p>
   </div>
   <div class="qr-item">
-    <img src="皓同学的高中数理化研习社.png" width="200" alt="高中数学物理化学交流群">
+    <img src="皓同学的高中数理化研习社.jpg" width="200" alt="高中数学物理化学交流群">
     <p>高中数学物理化学交流群</p>
   </div>
     <div class="qr-item">
