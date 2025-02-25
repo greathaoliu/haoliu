@@ -26,8 +26,7 @@
 - ⚡ 物理概念深入浅出
 - 📝 教育与社会经验分享
 
-## 代码和资料下载
-- word接入DeepSeek代码 [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
+## 资料下载
 - DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://haoliu.wiki/code/DeepSeek从入门到精通.pdf)
 - DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
@@ -35,6 +34,9 @@
 - DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://haoliu.wiki/code/DeepSeek与AI幻觉.pdf)
 - 提示词工程与落地场景 [提示词工程与落地场景.pdf](https://haoliu.wiki/code/提示词工程与落地场景.pdf)
 - DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://haoliu.wiki/code/DeepSeek与AIGC应用.pdf)
+
+## 代码下载
+- word接入DeepSeek代码 [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
 - 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
 - 新闻简报微信机器人 [news_bot.py](https://haoliu.wiki/code/news_bot.py)
 
