@@ -32,7 +32,7 @@
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
 - DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.wiki/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
 - DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://haoliu.wiki/code/DeepSeek与AI幻觉.pdf)
-- 提示词工程与落地场景 [提示词工程与落地场景.pdf](https://haoliu.wiki/code/提示词工程与落地场景.pdf)
+- 提示词工程和落地场景 [提示词工程和落地场景.pdf](https://haoliu.wiki/code/提示词工程和落地场景.pdf)
 - DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://haoliu.wiki/code/DeepSeek与AIGC应用.pdf)
 - Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景 [Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景.pdf](https://haoliu.wiki/code/Chatting%20or%20Acting？——DeepSeek的突破边界与“浙大先生”的未来图景.pdf)
 - DeepSeek：回望AI三大主义与加强通识教育 [DeepSeek：回望AI三大主义与加强通识教育.pdf](https://haoliu.wiki/code/DeepSeek：回望AI三大主义与加强通识教育.pdf)
