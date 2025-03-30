@@ -29,7 +29,7 @@
 - DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek从入门到精通.pdf)
 - DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://greathaoliu.github.io/haoliu/DeepSeek如何赋能职场应用.pdf)
 - 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://greathaoliu.github.io/haoliu/普通人如何抓住DeepSeek红利.pdf)
-- DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.pro/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
+- DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
 - DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek与AI幻觉.pdf)
 - 提示词工程和落地场景 [提示词工程和落地场景.pdf](https://greathaoliu.github.io/haoliu/code/提示词工程和落地场景.pdf)
 - DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek与AIGC应用.pdf)
