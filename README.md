@@ -26,20 +26,20 @@
 - 📝 教育与社会时事锐评
 
 ## 资料下载
-- DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://haoliu.wiki/code/DeepSeek从入门到精通.pdf)
-- DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://haoliu.wiki/code/DeepSeek如何赋能职场应用.pdf)
-- 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://haoliu.wiki/code/普通人如何抓住DeepSeek红利.pdf)
-- DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.wiki/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
-- DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://haoliu.wiki/code/DeepSeek与AI幻觉.pdf)
-- 提示词工程和落地场景 [提示词工程和落地场景.pdf](https://haoliu.wiki/code/提示词工程和落地场景.pdf)
-- DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://haoliu.wiki/code/DeepSeek与AIGC应用.pdf)
-- Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景 [Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景.pdf](https://haoliu.wiki/code/Chatting%20or%20Acting？——DeepSeek的突破边界与“浙大先生”的未来图景.pdf)
-- DeepSeek：回望AI三大主义与加强通识教育 [DeepSeek：回望AI三大主义与加强通识教育.pdf](https://haoliu.wiki/code/DeepSeek：回望AI三大主义与加强通识教育.pdf)
+- DeepSeek从入门到精通 [DeepSeek从入门到精通.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek从入门到精通.pdf)
+- DeepSeek如何赋能职场应用 [DeepSeek如何赋能职场应用.pdf](https://greathaoliu.github.io/haoliu/DeepSeek如何赋能职场应用.pdf)
+- 普通人如何抓住DeepSeek红利 [普通人如何抓住DeepSeek红利.pdf](https://greathaoliu.github.io/haoliu/普通人如何抓住DeepSeek红利.pdf)
+- DeepSeek+DeepResearch：让科研像聊天一样简单 [DeepSeek+DeepResearch：让科研像聊天一样简单.pdf](https://haoliu.pro/code/DeepSeek+DeepResearch：让科研像聊天一样简单.pdf)
+- DeepSeek与AI幻觉 [DeepSeek与AI幻觉.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek与AI幻觉.pdf)
+- 提示词工程和落地场景 [提示词工程和落地场景.pdf](https://greathaoliu.github.io/haoliu/code/提示词工程和落地场景.pdf)
+- DeepSeek与AIGC应用 [DeepSeek与AIGC应用.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek与AIGC应用.pdf)
+- Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景 [Chatting or Acting？——DeepSeek的突破边界与"浙大先生"的未来图景.pdf](https://greathaoliu.github.io/haoliu/code/Chatting%20or%20Acting？——DeepSeek的突破边界与“浙大先生”的未来图景.pdf)
+- DeepSeek：回望AI三大主义与加强通识教育 [DeepSeek：回望AI三大主义与加强通识教育.pdf](https://greathaoliu.github.io/haoliu/code/DeepSeek：回望AI三大主义与加强通识教育.pdf)
 
 ## 代码下载
-- word接入DeepSeek代码 [word_deepseek.vb](https://haoliu.wiki/code/word_deepseek.vb)
-- 微信多开脚本 [微信多开.bat](https://haoliu.wiki/code/微信多开.bat)
-- 新闻简报微信机器人 [news_bot.py](https://haoliu.wiki/code/news_bot.py)
+- word接入DeepSeek代码 [word_deepseek.vb](https://greathaoliu.github.io/haoliu/code/word_deepseek.vb)
+- 微信多开脚本 [微信多开.bat](https://greathaoliu.github.io/haoliu/code/微信多开.bat)
+- 新闻简报微信机器人 [news_bot.py](https://greathaoliu.github.io/haoliu/code/news_bot.py)
 
 ## 联系方式 📫
 - 💬 微信：realhaowhite
